@@ -6,6 +6,8 @@ tarun peon sales 15000
 deepak clerk sales 23000
 sunil peon sales 13000
 satvik director purchase 80000 
+purse 1000
+specs 1800
 
 
 new change occured
