@@ -1,0 +1,23 @@
+ajay manager account 45000
+sunil clerk account 25000
+varun manager sales 50000
+amit manager account 47000
+tarun peon sales 15000
+deepak clerk sales 23000
+sunil peon sales 13000
+satvik director purchase 80000 
+purse 1000
+specs 1800
+
+
+new change occured
+Mansi says that She changed the content.
+<<<<<<< HEAD
+Add 1+2 = 3
+
+1+1=11
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> parent of 46e1566 (Modification in newFile.txt)
+>>>>>>> newBranch
