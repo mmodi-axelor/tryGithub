@@ -11,11 +11,7 @@ specs 1800
 
 
 new change occured
-<<<<<<< Updated upstream
 Mansi says that She changed the content.
 Add 1+2 = 3
 
 1+1=11
-=======
-Mansi says that I change the content of newFile.
->>>>>>> Stashed changes
